@@ -1,0 +1,1 @@
+Execution time (sec): 48.0998 Number of threads:8
